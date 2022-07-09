@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Antiplagiat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Antiplagiat_jar</output-path>
+    <root id="archive" name="Antiplagiat.jar">
+      <element id="module-output" name="Antiplagiat" />
+    </root>
+  </artifact>
+</component>
